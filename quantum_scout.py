@@ -10,7 +10,7 @@ import pandas as pd
 from analysis import QuantumDistribution
 
 #Global variables
-KEY = "sTj4kOOM9vEIoeSHCUYq6G7nSgpznXH7Bi1PXe0ZOR5uwRpEjzb4c1qILhZuzwVN"
+KEY = "<YOUR API KEY>"
 SHOTS = 10000
 TEAM1 = 2363
 TEAM2 = 1731
